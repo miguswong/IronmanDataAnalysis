@@ -12,6 +12,7 @@ The goal of this data analysis is to:
 2. Asses customer retention and loyalty.  (Please change this eventually - Not good)
 
 ## Dataset Structure
+![Database ER diagram (crow's foot) (2)](https://github.com/user-attachments/assets/31da0771-93be-42cb-91b4-1c167e2d3e01)
 
 ## Insights Summary
 
