@@ -50,6 +50,7 @@ The goal of this data analysis is to:
 <!-- TOC --><a name="changes-in-age-demographic-customers"></a>
 ### Changes in Age Demographic Customers
 ![download](https://github.com/user-attachments/assets/b4a070a0-8cd2-4fc2-a85b-cfc4f9449c48)
+Competing in Ironman competitions is at an all-time high for younger age groups. Both 18-24 and 25-29 age groups had more participants in 2024 compared to any year previously; including 2014 when Ironman was at the height of its popularity.
 
 <!-- TOC --><a name="recommendations"></a>
 ## Recommendations
