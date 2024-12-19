@@ -1,5 +1,5 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
-
+# Table of Contents
 - [Ironman Triathalon Data Insights](#ironman-triathalon-data-insights)
    * [Project Background](#project-background)
    * [Dataset Structure](#dataset-structure)
