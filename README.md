@@ -35,12 +35,18 @@ The goal of this data analysis is to:
 <!-- TOC --><a name="executive-summary"></a>
 ## Executive Summary
 * Ironman participation continues to recover from pre-pandemic levels.
+* Competing in Ironman competitions is at an all-time high for younger age groups. Both **18-24** and **25-29** age groups had more participants in 2024 compared to any year previously; including 2014 when Ironman was at the height of its popularity.
 <!-- TOC --><a name="insights-deep-dive"></a>
 
 ## Insights Deep-Dive
 <!-- TOC --><a name="shifts-in-the-global-market"></a>
 ### Shifts in the Global Market
+Ironman races reached peak participant saturation around 2014 and saw steady participant numbers (which could be indicative that there was larger demand to participate in these races than there were spots available). However, with the COVID-19 Pandemic in 2020, a majority of races were shut down and deferred to later. Participants and races did not rebound until 2022 which saw a sharp increase in the number of races but participants remained lower than pre-pandemic levels. The most likely explanation here is that the effects of COVID-19 were still being felt; races that were supposed to happen in 2020 happened later in 2021 or 2022 and there were a significant portion of customers who opted for a ticket refund rather than a [deferred entry](https://www.ironman.com/covid-options-north-america) into their Ironman Race. 
+
+2023 was the first year that operations were somewhat returned to "normalcy" and deferred races have occurred. Total participants have not yet recovered back to previous levels but there are indications that triathlon racing is returning to its original popularity. 
 ![download](https://github.com/user-attachments/assets/21bcef7c-cae0-49fb-afc1-d6321a8f72fe)
+
+While the total number of Ironman Races offerings have decreased, Europe saw the largest decrease in race offerings; 
 ![download](https://github.com/user-attachments/assets/9eb5abc5-5aff-4419-847a-44980025ce4f)
 
 ![download](https://github.com/user-attachments/assets/faf3318d-59f4-479b-82c9-d0336cc8c76a)
@@ -49,8 +55,9 @@ The goal of this data analysis is to:
 
 <!-- TOC --><a name="changes-in-age-demographic-customers"></a>
 ### Changes in Age Demographic Customers
-![download](https://github.com/user-attachments/assets/b4a070a0-8cd2-4fc2-a85b-cfc4f9449c48)
 Competing in Ironman competitions is at an all-time high for younger age groups. Both 18-24 and 25-29 age groups had more participants in 2024 compared to any year previously; including 2014 when Ironman was at the height of its popularity.
+![download](https://github.com/user-attachments/assets/b4a070a0-8cd2-4fc2-a85b-cfc4f9449c48)
+
 
 <!-- TOC --><a name="recommendations"></a>
 ## Recommendations
