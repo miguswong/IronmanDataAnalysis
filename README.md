@@ -24,6 +24,12 @@ The goal of this project is to investigate Ironman 140.6 race/performance data i
 
 **The goal of this data analysis is to identify potential emerging demographic trends based on participant data.**
 
+**Useful Resources**
+Python Analysis Notebook: [here](https://github.com/miguswong/IronmanDataAnalysis/blob/main/IronMan%20Data%20Analysis.ipynb)
+Kaggle Dataset: [here](https://www.kaggle.com/datasets/miguswong/ironman-140-6-results-dataset-2002-2024)
+Webscraping Process: [here](https://github.com/miguswong/IronmanScraper)
+
+
 <!-- TOC --><a name="dataset-structure"></a>
 ## Dataset Structure
 ![Database ER diagram (crow's foot) (2)](https://github.com/user-attachments/assets/31da0771-93be-42cb-91b4-1c167e2d3e01)
