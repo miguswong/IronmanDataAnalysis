@@ -97,7 +97,7 @@ Competing in Ironman competitions is at an all-time high for younger age groups.
 <!-- TOC --><a name="recommendations"></a>
 ## Recommendations
 * **Make Ironman races more accessible to younger generations:** Younger generations show a growing interest in participating in Ironman races, particularly the 18-25 age group. While other age groups are seeing a decline, this demographic is expanding. However, the [high cost](https://www.triathlonish.com/p/how-much-does-it-cost-to-do-an-ironman) of participation, with registration fees around $1,000, can be a significant barrier for these young athletes. This financial hurdle may deter many from participating despite their interest.
-* * **Host more Events in Asia:** Asian Markets show strong potential for continued increases in participation and should be a larger focus going forward. Being able to host more opportunites in Asia not only will bring exposure to the race itself, but could also be seen as an attractive offering for athletes looking for a "vacation race" destination. Especially those from Europe and North America.
+* **Host more Events in Asia:** Asian Markets show strong potential for continued increases in participation and should be a larger focus going forward. Being able to host more opportunites in Asia not only will bring exposure to the race itself, but could also be seen as an attractive offering for athletes looking for a "vacation race" destination. Especially those from Europe and North America.
 
 <!-- TOC --><a name="clarifying-questions-assumptions-and-caveats"></a>
 ## Clarifying Questions, Assumptions, and Caveats
